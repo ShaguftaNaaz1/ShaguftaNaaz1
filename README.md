@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShaguftaNaaz1
+- 👋 Hi, I’m Shagufta Naaz
 - 👀 I’m interested in Software Development & Graphic Designing
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Learning and Get New Stuffs
